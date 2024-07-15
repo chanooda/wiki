@@ -12,5 +12,5 @@ layout:
     visible: false
 ---
 
-# JS
+# Design System
 
