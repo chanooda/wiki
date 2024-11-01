@@ -2,6 +2,7 @@
 
 * [JS](README.md)
   * [primitive](js/primitive.md)
+  * [Object.prototype.toString.call](js/object.prototype.tostring.call.md)
 * [TS](ts/README.md)
   * [typeof](ts/typeof.md)
 * [React](react.md)
