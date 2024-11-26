@@ -13,3 +13,4 @@
 * [Algorithm](algorithm/README.md)
   * [leetcode](algorithm/leetcode/README.md)
     * [211. Maximal Square](algorithm/leetcode/211.-maximal-square.md)
+    * [341. Flatten Nested List Iterator](algorithm/leetcode/341.-flatten-nested-list-iterator.md)
