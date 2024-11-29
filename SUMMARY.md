@@ -14,3 +14,4 @@
   * [leetcode](algorithm/leetcode/README.md)
     * [211. Maximal Square](algorithm/leetcode/211.-maximal-square.md)
     * [341. Flatten Nested List Iterator](algorithm/leetcode/341.-flatten-nested-list-iterator.md)
+    * [295. Find Median from Data Stream](algorithm/leetcode/295.-find-median-from-data-stream.md)
